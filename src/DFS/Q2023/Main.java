@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	static int N, primeNum;
+	static int N;
 	
 	static boolean isPrime(int num) {
 		if(num<=1)
